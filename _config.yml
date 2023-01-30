@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Universidad Técnica de Ambato
+logo: <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+description: Manejo y configuración de Software.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
